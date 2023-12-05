@@ -3,7 +3,8 @@
 This file is my Hello World file for the Professional Development elective.
 
 ## Personal Info
-Personal Information
+| Personal | Information |
+| ---------- | ----------- |
 | Name | Josh Lundmark |
 | Age | 22 |
 | School | University of Iowa |
